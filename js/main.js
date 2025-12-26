@@ -14,7 +14,7 @@ function func() {
 
 /*---------------------------------------------*/
 
-let kitchen = document.querySelectorAll('#kitchen');
+let kitchen = document.querySelectorAll('.kitchen-id');
 let button = document.querySelector('#button');
 
 button.addEventListener('click', watch);
